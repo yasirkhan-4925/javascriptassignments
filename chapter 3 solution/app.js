@@ -7,7 +7,9 @@ alert("i am " +age+ " years old");
 //task number 2
 
 var userVisit=13;
+
 alert("You have visited this site" + userVisit +" times");
+
 
 //task number 3
 
